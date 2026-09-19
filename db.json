@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 2500,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 3500,
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 4200,
+      "category": "Fashion"
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "price": 1800,
+      "category": "Accessories"
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Keyboard",
+      "price": 5500,
+      "category": "Computer"
+    },
+    {
+      "id": 6,
+      "name": "Gaming Mouse",
+      "price": 2200,
+      "category": "Computer"
+    }
+  ]
+}
